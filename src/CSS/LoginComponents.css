@@ -1,0 +1,36 @@
+.containter1{
+    padding-top: 10%;
+}
+.icon{
+    font-size: 30px;
+    border-radius: 100px;
+    background-color: #6f42c1;
+    width: 80px;
+    height: 80px;
+    color: #f7f7f7;
+    margin-bottom: 2%;
+    margin-top: 9%;
+}
+.btn-login {
+    font-size: 1.0rem;
+    letter-spacing: 0.05rem;
+    background-color:#6f42c1;
+    color: #f7f7f7;
+}
+.btn-login:hover{
+    color: #f7f7f7;
+}
+.title{
+    font-size: 23px;
+    color: #6f42c1;
+}
+.login-form{
+    padding-left: 6%;
+    padding-right: 6%;
+    margin-bottom: 4%;
+}
+.divider {
+    border: 1px solid rgba(255, 204, 0, 1);
+    margin: 5%;
+    margin-bottom: 10%;
+}

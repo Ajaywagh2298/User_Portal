@@ -1,0 +1,64 @@
+.error {
+    color: #2C3E50;
+}
+
+#main {
+    height: 100vh;
+}
+
+.err-icon {
+    font-size: 130px;
+    margin-right: 2%;
+}
+
+.err-msg {
+    font-size: 40px;
+    font-family: "Calibri Light", sans-serif;
+}
+
+.divider3 {
+    border: 1px solid #2C3E50;
+    height: 200px;
+    margin-right: 2%;
+}
+
+/* --------------------- */
+.progress {
+    background: #EAECEE;
+    justify-content: flex-start;
+    border-radius: 100px;
+    align-items: center;
+    position: relative;
+    padding: 0 5px;
+    display: flex;
+    height: 16px;
+    width: 600px;
+}
+
+.pro-box {
+    padding-left: 2%;
+    font-size: 15px;
+}
+
+.m {
+    margin-left: 5%;
+    color: #2C3E50;
+}
+
+.progress-value {
+    animation: load 14s normal forwards;
+    box-shadow: 0 10px 40px -10px #2C3E50;
+    border-radius: 100px;
+    background: #34495E;
+    height: 8px;
+    width: 0;
+}
+
+@keyframes load {
+    0% {
+        width: 100%;
+    }
+    100% {
+        width: 2%;
+    }
+}

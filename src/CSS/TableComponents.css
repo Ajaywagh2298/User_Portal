@@ -1,0 +1,25 @@
+.container-box{
+    margin-top: 3%;
+}
+.box1{
+    border: none;
+    border-bottom: 2px solid #d5d8dc;
+}
+.add-btn{
+    height: 40px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 200px;
+    border-radius: 100px;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+}
+.add-title{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 3%;
+    margin-right: 2%;
+    font-size: 40px;
+    font-family: "Calibri Light", sans-serif;
+    font-weight: bolder;
+}
